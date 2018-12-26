@@ -26,6 +26,6 @@ The configuration file should be:
 </configuration>
 ```
 
-#INFORMATION
+# INFORMATION
 
 This application was made for a company that using slack.
