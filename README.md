@@ -1,15 +1,15 @@
-# Yükleme
+# INSTALL
 
-http://10.0.0.73/zuleyhaay/pomodoro/raw/master/PomodoroSetup/Debug/PomodoroSetup.msi?inline=false
+https://github.com/zuleyhaay/pomodoro/tree/master/PomodoroSetup/Debug/PomodoroSetup.msi?inline=false
 
-**Eğer bilgisayarınızda uygulamanın daha eski bir sürümü yüklüyse eski sürümünü kaldırmalısınız**
+**If you have lastest version this application you should install again **
 
-Setup dosyasını yükledikten sonra Pomodoro uygulamasının Install App ayarlarından uygulamayı kurup (https://api.slack.com/apps/ADU9GKXKM/install-on-team)
-otomatik olarak oluşturulan OAuth token'larınızı kopyalamalısınız.
+After installing the Setup file, install the application from the Install App settings of the Pomodoro app (https://api.slack.com/apps/ADU9GKXKM/install-on-team)
+automatically copy your generated OAuth tokens.
 
-Kopyaladığınız token'larınızla yerel diskteki program dosyalarında Polisoft klasörünün içindeki yapılandırma dosyasını güncellemelisiniz. 
+You must update the configuration file in the Polisoft folder in the program files on the local disk with the token that you copied.
 
-Yapılandırma dosyası şu şekilde olmalı:
+The configuration file should be:
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -25,3 +25,7 @@ Yapılandırma dosyası şu şekilde olmalı:
   
 </configuration>
 ```
+
+#INFORMATION
+
+This application was made for a company that using slack.
