@@ -2,7 +2,7 @@
 
 https://github.com/zuleyhaay/pomodoro/tree/master/PomodoroSetup/Debug/PomodoroSetup.msi?inline=false
 
-**If you have lastest version this application you should install again **
+**If you have older version this application you should install again **
 
 After installing the Setup file, install the application from the Install App settings of the Pomodoro app (https://api.slack.com/apps/ADU9GKXKM/install-on-team)
 automatically copy your generated OAuth tokens.
