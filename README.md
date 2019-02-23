@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-This application's a timer. It's using the pomodoro technique. So what's the point this app? When you're working in a pomodoro time your situation change to red in SLACK. It shows that you're not available except urgent things. In work slot no one disturb you or no longer you get notifications from anyone. When you're in break time your situation change to green. It shows that now you're available for any question or chat. This application intend to increase productivity. And sometimes you can see notifications from app like "Welcome" or "You did four pomodoros today. Good job!".
+This application is a timer. It's using the pomodoro technique. So what's the point this app? When you're working in a pomodoro time your situation change to red in SLACK. It shows that you're not available except urgent things. In work slot no one disturb you or no longer you get notifications from anyone. When you're in break time your situation change to green. It shows that now you're available for any question or chat. This application intend to increase productivity. And sometimes you can see notifications from app like "Welcome" or "You did four pomodoros today. Good job!".
 
 # INSTALL
 
